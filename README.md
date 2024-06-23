@@ -2,6 +2,7 @@
 
 **Explore UI** is a Python GUI for exploring and searching ChatGPT `conversation.json` files. You'll need to export your conversation history in the ChatGPT UI.
 
+![GUI](./images/2024-06-22_18-14.jpg)
 
 ## 🛰️ Functionality
 
